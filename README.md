@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OzgeKrnz&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgeKrnz&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgeKrnz&layout=compact&theme=tokyonight&hide=C,C++,Makefile,Objective-C&cache_seconds=1" height="180"/>
 </p>
 
 ---
@@ -36,15 +36,8 @@
 
 ---
 
-### 📈 Katkı Aktivitem
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OzgeKrnz&theme=tokyo-night" />
-</p>
-
----
 
 ### ✨ Bağlantılar
 
 - [LinkedIn](https://www.linkedin.com/in/ozge-kurnaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [GitHub](https://github.com/OzgeKrnz)
+
