@@ -33,5 +33,5 @@
 
 ### ✨ Bağlantılar
 
-- [LinkedIn](https://www.linkedin.com/in/ozgekurnaz/)
-- [GitHub](https://github.com/OzgeKrnz)
+- [LinkedIn](https://www.linkedin.com/in/ozge-kurnaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
