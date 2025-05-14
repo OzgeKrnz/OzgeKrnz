@@ -27,6 +27,13 @@
 </p>
 
 ---
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OzgeKrnz&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+---
 
 ### 🏆 GitHub Trophy
 
