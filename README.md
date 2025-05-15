@@ -30,7 +30,7 @@
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OzgeKrnz&theme=tokyonight&hide_border=true" height="200"/>
+<img src="https://streak-stats.demolab.com?user=OzgeKrnz&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
 
 ---
