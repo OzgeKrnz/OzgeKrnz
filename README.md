@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/OzgeKrnz/YoutubeSearchApp">
-    <img src="YoutubeSearchImg.png" width="220" height="130"/>
+    <img src="YoutubeSearchImg.png" width="220" height="200"/>
   </a>
   <a href="https://github.com/OzgeKrnz/CalculatorApp">
-    <img src="CalculatorImg.png" width="220" height="130"/>
+    <img src="CalculatorImg.png" width="220" height="200"/>
   </a>
 </p>
 
