@@ -1,18 +1,22 @@
 <h1 align="center">Hi, I'm Özge Kurnaz</h1>
+
+<p align="center"><i>iOS Developer</i></p>
+
 <p align="center">
-<i>iOS Developer</i>
-<i>I’m a junior iOS developer focused on building intuitive and user-friendly mobile apps using Swift and UIKit.
-I enjoy crafting clean interfaces and seamless user experiences, and I’m currently exploring how AI can enhance mobile functionality.
-Always eager to learn and grow, I love turning ideas into real-world projects.</i>
-  <h2>
-    Some of My Projects
-  </h2>
-  <p align="center>
-     <img src="YoutubeSearchImg.png" width="200"/>
-      <img src="CalculatorImg.png" width="200"/>
-  </p>
- 
-  
+  I’m a junior iOS developer focused on building intuitive and user-friendly mobile apps using Swift and UIKit.  
+  I enjoy crafting clean interfaces and seamless user experiences, and I’m currently exploring how AI can enhance mobile functionality.  
+  Always eager to learn and grow, I love turning ideas into real-world projects.
+</p>
+
+<h2 align="center">Some of My Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/OzgeKrnz/YoutubeSearchApp">
+    <img src="YoutubeSearchImg.png" width="200"/>
+  </a>
+  <a href="https://github.com/OzgeKrnz/CalculatorApp">
+    <img src="CalculatorImg.png" width="200"/>
+  </a>
 </p>
 
 ---
@@ -38,10 +42,11 @@ Always eager to learn and grow, I love turning ideas into real-world projects.</
 </p>
 
 ---
+
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=OzgeKrnz&theme=tokyonight&hide_border=true&cache_seconds=1" />
+  <img src="https://streak-stats.demolab.com?user=OzgeKrnz&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
 
 ---
@@ -54,8 +59,6 @@ Always eager to learn and grow, I love turning ideas into real-world projects.</
 
 ---
 
-
 ### ✨ Bağlantılar
 
 - [LinkedIn](https://www.linkedin.com/in/ozge-kurnaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
