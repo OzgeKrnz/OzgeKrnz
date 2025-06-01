@@ -11,11 +11,11 @@
 <h2 align="center">Some of My Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/OzgeKrnz/YoutubeSearchApp">
-    <img src="YoutubeSearchImg.png" width="220" height="200"/>
+  <a href="https://github.com/OzgeKrnz/YoutubeSearch">
+    <img src="YoutubeSearchImg.png" width="220"/>
   </a>
-  <a href="https://github.com/OzgeKrnz/CalculatorApp">
-    <img src="CalculatorImg.png" width="220" height="200"/>
+  <a href="https://github.com/OzgeKrnz/Calculator-iOS17">
+    <img src="CalculatorImg.png" width="220"/>
   </a>
 </p>
 
