@@ -15,7 +15,7 @@
     <img src="YoutubeSearchImg.png" width="200"/>
   </a>
   <a href="https://github.com/OzgeKrnz/CalculatorApp">
-    <img src="CalculatorImg.png" width="200"/>
+    <img src="CalculatorImg.png" width="300"/>
   </a>
 </p>
 
