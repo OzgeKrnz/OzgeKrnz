@@ -1,6 +1,18 @@
 <h1 align="center">Hi, I'm Özge Kurnaz</h1>
 <p align="center">
 <i>iOS Developer</i>
+<i>I’m a junior iOS developer focused on building intuitive and user-friendly mobile apps using Swift and UIKit.
+I enjoy crafting clean interfaces and seamless user experiences, and I’m currently exploring how AI can enhance mobile functionality.
+Always eager to learn and grow, I love turning ideas into real-world projects.</i>
+  <h2>
+    Some of My Projects
+  </h2>
+  <p align="center>
+     <img src="YoutubeSearchImg.png" width="200"/>
+      <img src="CalculatorImg.png" width="200"/>
+  </p>
+ 
+  
 </p>
 
 ---
