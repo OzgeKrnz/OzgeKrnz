@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Özge Kurnaz</h1>
 
-<p align="center"><i>iOS Developer</i></p>
+<p align="center"><i>Mobile Developer | iOS Developer</i></p>
 
 <p align="center">
-  I’m a junior iOS developer focused on building intuitive and user-friendly mobile apps using Swift and UIKit.  
-  I enjoy crafting clean interfaces and seamless user experiences, and I’m currently exploring how AI can enhance mobile functionality.  
-  Always eager to learn and grow, I love turning ideas into real-world projects.
+I’m a Junior Mobile Developer passionate about building intuitive and user-friendly apps with Swift, UIKit, and Flutter.
+I focus on crafting clean interfaces and seamless user experiences, while exploring how AI can enhance mobile functionality.
+Always eager to learn and grow, I love turning ideas into real-world projects and continuously improving my skills across both native and cross-platform development.
 </p>
 
 <h2 align="center">Some of My Projects</h2>
