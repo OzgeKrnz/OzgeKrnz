@@ -12,7 +12,7 @@ Always eager to learn and grow, I love turning ideas into real-world projects an
 
 <p align="center">
   <a href="https://github.com/OzgeKrnz/YoutubeSearch">
-    <img src=src="https://embed.figma.com/design/q7N2qUt97O01hOIhLjlyB8/iPhone-16-and-16-Plus-Mockups--Community-?node-id=3-1023&embed-host=share" allowfullscreen/>
+    <img src="https://embed.figma.com/design/q7N2qUt97O01hOIhLjlyB8/iPhone-16-and-16-Plus-Mockups--Community-?node-id=3-1023&embed-host=share" allowfullscreen/>
   </a>
   <a href="https://github.com/OzgeKrnz/Calculator-iOS17">
     <img src="CalculatorImg.png" width="220"/>
