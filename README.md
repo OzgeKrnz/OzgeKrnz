@@ -17,7 +17,7 @@ Always eager to learn and grow, I love turning ideas into real-world projects an
   <a href="https://github.com/OzgeKrnz/Calculator-iOS17">
     <img src="calculator.png" width="220"/>
   </a>
-    <a href="https://github.com/OzgeKrnz/Calculator-iOS17">
+    <a href="https://github.com/OzgeKrnz/MovieApp">
     <img src="movieApp.png" width="220"/>
   </a>
 </p>
